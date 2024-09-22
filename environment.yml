@@ -1,0 +1,15 @@
+name: Python310INLP
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - mamba
+  - jupyterlab
+  - ipykernel
+  - pandas
+  - scikit-learn
+  - nltk
+  - sentence-transformers
+  - pydantic
+  - pytest
+  - numpy
